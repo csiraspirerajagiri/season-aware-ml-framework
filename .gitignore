@@ -1,0 +1,30 @@
+Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+/.ipynb_checkpoints/
+
+Python cache and virtual environments
+
+pycache/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+
+QGIS & GDAL auxiliary / temporary files (keeps clean .tif, .csv, and .geojson only)
+
+*.tif.aux.xml
+*.tif.ovr
+*.qgs~
+*.qgz~
+*.shp.xml
+*.cpg
+
+OS metadata (Linux / macOS / Windows)
+
+.DS_Store
+.directory
+Thumbs.db
+*~
