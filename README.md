@@ -34,9 +34,7 @@ cd season-aware-ml-framework
 ```
 
 ### 2. Set Up Isolated Jupyter Kernel & Dependencies
-You can install the dependencies directly inside the running notebook or set up an isolated virtual environment kernel:
-
-Both options use python version 3.10.22
+You can install the dependencies directly inside the running notebook or set up an isolated virtual environment kernel. Both options use **python** version **3.10.22**.
 
 **Option A: Inside `code.ipynb` (Quickest)**
 Run the following in the first cell of the notebook to install packages directly to the active kernel:
